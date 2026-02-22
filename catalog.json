@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "email": "23f1000501@ds.study.iitm.ac.in",
+    "version": "1d9566c7"
+  },
+  "products": [
+    { "id": 1, "name": "Premium Laptop", "category": "electronics", "price": 2683.45, "stock": 1, "rating": 4.8 },
+
+    { "id": 2, "name": "Cotton T-Shirt", "category": "clothing", "price": 19.99, "stock": 50, "rating": 4.2 },
+    { "id": 3, "name": "Running Shoes", "category": "clothing", "price": 89.99, "stock": 30, "rating": 4.5 },
+    { "id": 4, "name": "Jeans", "category": "clothing", "price": 49.99, "stock": 40, "rating": 4.1 },
+    { "id": 5, "name": "Hoodie", "category": "clothing", "price": 39.99, "stock": 25, "rating": 4.6 },
+
+    { "id": 6, "name": "Coffee Mug", "category": "home", "price": 12.99, "stock": 100, "rating": 4.3 },
+    { "id": 7, "name": "Desk Lamp", "category": "home", "price": 29.99, "stock": 35, "rating": 4.4 },
+    { "id": 8, "name": "Wall Clock", "category": "home", "price": 24.99, "stock": 20, "rating": 4.0 },
+    { "id": 9, "name": "Cushion Cover", "category": "home", "price": 14.99, "stock": 60, "rating": 4.2 },
+
+    { "id": 10, "name": "Notebook", "category": "stationery", "price": 5.99, "stock": 200, "rating": 4.5 },
+    { "id": 11, "name": "Ballpoint Pen", "category": "stationery", "price": 1.99, "stock": 500, "rating": 4.1 },
+    { "id": 12, "name": "Backpack", "category": "stationery", "price": 39.99, "stock": 45, "rating": 4.6 },
+
+    { "id": 13, "name": "Water Bottle", "category": "sports", "price": 15.99, "stock": 80, "rating": 4.4 },
+    { "id": 14, "name": "Yoga Mat", "category": "sports", "price": 29.99, "stock": 30, "rating": 4.7 },
+    { "id": 15, "name": "Football", "category": "sports", "price": 25.99, "stock": 40, "rating": 4.3 },
+
+    { "id": 16, "name": "Cookbook", "category": "books", "price": 18.99, "stock": 70, "rating": 4.5 },
+    { "id": 17, "name": "Mystery Novel", "category": "books", "price": 12.99, "stock": 90, "rating": 4.2 },
+    { "id": 18, "name": "Science Textbook", "category": "books", "price": 59.99, "stock": 15, "rating": 4.6 },
+
+    { "id": 19, "name": "Sunglasses", "category": "accessories", "price": 49.99, "stock": 25, "rating": 4.4 },
+    { "id": 20, "name": "Wrist Watch", "category": "accessories", "price": 199.99, "stock": 10, "rating": 4.7 },
+    { "id": 21, "name": "Leather Belt", "category": "accessories", "price": 34.99, "stock": 35, "rating": 4.3 }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 1,
+      "inventoryValue": 2683.45
+    }
+  }
+}
