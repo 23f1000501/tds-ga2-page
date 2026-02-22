@@ -1,0 +1,18 @@
+name: Verify Assignment Step
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  verify-identity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: 23f1000501@ds.study.iitm.ac.in
+        run: |
+          echo "Identity verification step for StaticShop assignment."
+          echo "Current version: 1d9566c7"
