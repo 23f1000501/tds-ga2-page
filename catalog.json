@@ -4,33 +4,27 @@
     "version": "1d9566c7"
   },
   "products": [
-    { "id": "prod-1d9566c7-001", "name": "Premium Laptop", "category": "electronics", "price": 2683.45, "stock": 1, "rating": 4.8 },
-
-    { "id": "prod-1d9566c7-002", "name": "Cotton T-Shirt", "category": "clothing", "price": 19.99, "stock": 50, "rating": 4.2 },
-    { "id": "prod-1d9566c7-003", "name": "Running Shoes", "category": "clothing", "price": 89.99, "stock": 30, "rating": 4.5 },
-    { "id": "prod-1d9566c7-004", "name": "Jeans", "category": "clothing", "price": 49.99, "stock": 40, "rating": 4.1 },
-    { "id": "prod-1d9566c7-005", "name": "Hoodie", "category": "clothing", "price": 39.99, "stock": 25, "rating": 4.6 },
-
-    { "id": "prod-1d9566c7-006", "name": "Coffee Mug", "category": "home", "price": 12.99, "stock": 100, "rating": 4.3 },
-    { "id": "prod-1d9566c7-007", "name": "Desk Lamp", "category": "home", "price": 29.99, "stock": 35, "rating": 4.4 },
-    { "id": "prod-1d9566c7-008", "name": "Wall Clock", "category": "home", "price": 24.99, "stock": 20, "rating": 4.0 },
-    { "id": "prod-1d9566c7-009", "name": "Cushion Cover", "category": "home", "price": 14.99, "stock": 60, "rating": 4.2 },
-
-    { "id": "prod-1d9566c7-010", "name": "Notebook", "category": "stationery", "price": 5.99, "stock": 200, "rating": 4.5 },
-    { "id": "prod-1d9566c7-011", "name": "Ballpoint Pen", "category": "stationery", "price": 1.99, "stock": 500, "rating": 4.1 },
-    { "id": "prod-1d9566c7-012", "name": "Backpack", "category": "stationery", "price": 39.99, "stock": 45, "rating": 4.6 },
-
-    { "id": "prod-1d9566c7-013", "name": "Water Bottle", "category": "sports", "price": 15.99, "stock": 80, "rating": 4.4 },
-    { "id": "prod-1d9566c7-014", "name": "Yoga Mat", "category": "sports", "price": 29.99, "stock": 30, "rating": 4.7 },
-    { "id": "prod-1d9566c7-015", "name": "Football", "category": "sports", "price": 25.99, "stock": 40, "rating": 4.3 },
-
-    { "id": "prod-1d9566c7-016", "name": "Cookbook", "category": "books", "price": 18.99, "stock": 70, "rating": 4.5 },
-    { "id": "prod-1d9566c7-017", "name": "Mystery Novel", "category": "books", "price": 12.99, "stock": 90, "rating": 4.2 },
-    { "id": "prod-1d9566c7-018", "name": "Science Textbook", "category": "books", "price": 59.99, "stock": 15, "rating": 4.6 },
-
-    { "id": "prod-1d9566c7-019", "name": "Sunglasses", "category": "accessories", "price": 49.99, "stock": 25, "rating": 4.4 },
-    { "id": "prod-1d9566c7-020", "name": "Wrist Watch", "category": "accessories", "price": 199.99, "stock": 10, "rating": 4.7 },
-    { "id": "prod-1d9566c7-021", "name": "Leather Belt", "category": "accessories", "price": 34.99, "stock": 35, "rating": 4.3 }
+    { "id": "prod-1d9566c7-001", "name": "Elite Item 1", "category": "clothing", "price": 136.7, "stock": 16, "rating": 4.3 },
+    { "id": "prod-1d9566c7-002", "name": "Standard Item 2", "category": "clothing", "price": 388.28, "stock": 72, "rating": 2.2 },
+    { "id": "prod-1d9566c7-003", "name": "Pro Item 3", "category": "clothing", "price": 416.35, "stock": 166, "rating": 2.6 },
+    { "id": "prod-1d9566c7-004", "name": "Premium Item 4", "category": "books", "price": 369.85, "stock": 73, "rating": 1.7 },
+    { "id": "prod-1d9566c7-005", "name": "Standard Item 5", "category": "clothing", "price": 104.53, "stock": 142, "rating": 4.7 },
+    { "id": "prod-1d9566c7-006", "name": "Standard Item 6", "category": "books", "price": 480.41, "stock": 79, "rating": 2.6 },
+    { "id": "prod-1d9566c7-007", "name": "Basic Item 7", "category": "electronics", "price": 65.45, "stock": 41, "rating": 4.9 },
+    { "id": "prod-1d9566c7-008", "name": "Standard Item 8", "category": "home", "price": 374.46, "stock": 189, "rating": 3.9 },
+    { "id": "prod-1d9566c7-009", "name": "Premium Item 9", "category": "home", "price": 23.58, "stock": 153, "rating": 2.6 },
+    { "id": "prod-1d9566c7-010", "name": "Elite Item 10", "category": "books", "price": 297.22, "stock": 21, "rating": 3.1 },
+    { "id": "prod-1d9566c7-011", "name": "Premium Item 11", "category": "home", "price": 123.3, "stock": 177, "rating": 4.3 },
+    { "id": "prod-1d9566c7-012", "name": "Premium Item 12", "category": "clothing", "price": 472.03, "stock": 161, "rating": 2.3 },
+    { "id": "prod-1d9566c7-013", "name": "Premium Item 13", "category": "clothing", "price": 17.86, "stock": 30, "rating": 1.9 },
+    { "id": "prod-1d9566c7-014", "name": "Standard Item 14", "category": "clothing", "price": 364.26, "stock": 125, "rating": 3.7 },
+    { "id": "prod-1d9566c7-015", "name": "Pro Item 15", "category": "clothing", "price": 256.75, "stock": 116, "rating": 1.6 },
+    { "id": "prod-1d9566c7-016", "name": "Pro Item 16", "category": "home", "price": 328.83, "stock": 187, "rating": 2.6 },
+    { "id": "prod-1d9566c7-017", "name": "Standard Item 17", "category": "home", "price": 62.53, "stock": 1, "rating": 2.3 },
+    { "id": "prod-1d9566c7-018", "name": "Premium Item 18", "category": "books", "price": 389.01, "stock": 78, "rating": 2.3 },
+    { "id": "prod-1d9566c7-019", "name": "Elite Item 19", "category": "home", "price": 252.49, "stock": 99, "rating": 2.1 },
+    { "id": "prod-1d9566c7-020", "name": "Standard Item 20", "category": "books", "price": 495.06, "stock": 19, "rating": 3.7 },
+    { "id": "prod-1d9566c7-021", "name": "Pro Item 21", "category": "clothing", "price": 278.55, "stock": 124, "rating": 4.2 }
   ],
   "aggregations": {
     "electronics": {
